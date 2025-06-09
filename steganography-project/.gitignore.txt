@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# IDE/build/cache
+.gradle/
+.android/
+AppData/
+.idea/
+*.iml
+*.log
+*.tmp
+.DS_Store
+build/
